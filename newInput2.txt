@@ -1,0 +1,5 @@
+London;Paris;20;19
+Paris;Berlin;35;23
+Berlin;Helsinki;7;8
+Amsterdam;Berlin;N/A;3
+Amsterdam;Paris;4;N/A
